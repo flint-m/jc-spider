@@ -1,8 +1,8 @@
 # jc-spider
 
--下载巨潮报告的爬虫工具-
+- 下载巨潮报告的爬虫工具 -
 
---本文档基于Python3编写--
+-- 本文档基于Python3编写 --
 
 - START_DATE 开始时间
 - END_DATE  结束时间
@@ -12,4 +12,4 @@
 其他参数去
 [调试链接](http://www.cninfo.com.cn/cninfo-new/announcement/show)
 通过chrome调试平台查看 XHR
---http://www.cninfo.com.cn/cninfo-new/announcement/query--
+-- http://www.cninfo.com.cn/cninfo-new/announcement/query --
