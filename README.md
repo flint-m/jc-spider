@@ -6,10 +6,10 @@
 
 字段     |    说明
 :--------|:--------
-START_DATE | 开始时间
-END_DATE  | 结束时间
-OUTPUT_FILENAME  | 下载的excel文档前缀
- OUT_DIR | 下载excel存放位置
+START_DATE |开始时间
+END_DATE  |结束时间
+OUTPUT_FILENAME  |下载的excel文档前缀
+ OUT_DIR |下载excel存放位置
 
 其他参数去
 [调试链接](http://www.cninfo.com.cn/cninfo-new/announcement/show)
